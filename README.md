@@ -3,3 +3,6 @@ This Quarto report presents an in-depth analysis of global mobile phone ownershi
 
 Through maps, bar charts, time series, and scatter plots, the report shows that mobile ownership is influenced not just by GDP, but also by structural factors like affordability, infrastructure, and gender equity. The visualisations aim to support UNICEF’s mission of ensuring equitable access to digital technology, especially for underserved populations.
 
+Please Find my Quarto Html Report 
+https://sindhiyaravi30.github.io/Unicef_Quarto_Individual_assignment/Unicef_Report/New_Unicef.html
+
